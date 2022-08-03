@@ -1,0 +1,24 @@
+{
+  "name": "👩‍💻 GHOST-SHADOW 👩‍💻",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/SHADOW-JANIYA/GHOST-SHADOW",
+  "logo": "https://i.ibb.co/hY7cwrN/Picsart-22-07-30-19-49-14-649.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
