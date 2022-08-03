@@ -14,7 +14,7 @@
 
 **[![GHOST-SHADOW](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/94751625942?text=Can%20you%20help%20bro)**
 
-   ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1CF700&height=60&lines=CONTACT+ME+FOR+WHATSAPP" alt="Typing SVG" /></a>
+   ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=1CF700&height=40&lines=CONTACT+ME+FOR+WHATSAPP" alt="Typing SVG" /></a>
 
 # [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HjmD26Tnd1mIlDcH2ISIqU)
 
