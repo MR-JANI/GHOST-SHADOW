@@ -20,6 +20,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1CF700&height=60&lines=%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%AD+%F0%9D%90%85%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%8C%F0%9D%90%9E+%F0%9D%90%88%F0%9D%90%A7+%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A9)](https://git.io/typing-svg)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=git clone https://github.com/SHADOW-JANIYA/GHOST-SHADOW)
 [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94763940089)
 
 #### ```How To deploy ```
