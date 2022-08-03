@@ -33,3 +33,5 @@
  <p align="left">
 <a href="https://github.com/SHADOW-JANIYA/GHOST-SHADOW/fork"><img align="center" src="https://imgur.com/a/IrVZt4V.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
+### SCAN QR CODE 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MR-JANI/GHOST-SHADOW?v=1?outputonly=1&lite=1#index.js)
