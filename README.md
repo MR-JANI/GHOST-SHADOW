@@ -30,9 +30,6 @@
 5. Watch your heroku log 
 
 ### FORK GHOST SHADOW REPO
-
  <p align="left">
-
 <a href="https://github.com/SHADOW-JANIYA/GHOST-SHADOW/fork"><img align="center" src="https://imgur.com/a/IrVZt4V.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
-
 
